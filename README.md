@@ -43,15 +43,19 @@
 ### Mãos a obra...
   Iniciamos nosso projeto abrindo o PowerBi Desktop. Aqui trabalharemos dois bancos de dados na extensão (xlsx). 
   
- Link para acesso aos arquivos:
+Link para acesso aos arquivos xlsx:
  
-° https://github.com/adalto2019/PowerBi_Dashboard/blob/main/Base%20Cliente.xlsx
+° https://github.com/adalto2019/PowerBi_Dashboard_/blob/main/Arquivos/Base%20Cliente.xlsx
 
-° https://github.com/adalto2019/PowerBi_Dashboard/blob/main/Base%20Devolu%C3%A7%C3%A3o.xlsx
+° https://github.com/adalto2019/PowerBi_Dashboard_/blob/main/Arquivos/Base%20Devolu%C3%A7%C3%A3o.xlsx
+
+Link para acesso aos arquivo ProjetoBi.pbix:
+
+° https://github.com/adalto2019/PowerBi_Dashboard_/blob/main/Arquivos/ProjetoBi.pbix
     
 <img src="Img/imgTelaInicial.png">
 
-Img da tela inicial do PowerBi Desktop:    
+**Img da tela inicial do PowerBi.**    
     
   Na seguência efetuaremos primeiramente o tratamento dos dados disponivéis, clicando em obter dados(1)/tipo de dado da extensão/selecionando o caminho do arquivo e    selecionando ele (os arquivos utilizados aqui estão nomeados como: Base Cliente e Base Devolução). Após isso na tela que se abrirá(2), selecionar o arquivo e em       seguida: transformar dados(botão na parte inferior). Após isso, abrirá o editor de Power Querry do arquivo para tratamento. Aqui verificaremos se os tipos de dados     estão compatíveis com os dados de cada coluna, ex: Nome, tipo texto; quantidade vendida, tipo, numero, e assim por diante. Os dados que não estiverem compativéis, corrigiremos clicando sobre o ícone do tipo do dado(3) e selecionando o tipo correto.
   
